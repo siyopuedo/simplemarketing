@@ -1,0 +1,56 @@
+.header {
+  	height: 100px;
+  	width: 100%;
+  	margin-bottom: 20px;
+}
+.bright {
+	height: 300px;
+	width: 45%;
+	float: left;
+	margin-right: 20px;
+}
+.sunny {
+	height: 300px;
+	width: 45%;
+	float: left;
+	margin-bottom: 20px;
+}
+.main {
+	width: 30%;
+	height: 100px;
+	float: left;
+	margin-right: 20px;
+}
+.aside {
+	height: 100px;
+	width: 30%;
+	float: left;
+	margin-right: 20px;
+}
+.middle {
+	height: 100px;
+	width: 30%;
+	float: left;
+}
+.footer {
+	height: 100px;
+	width: 100%;
+	float: left;
+	clear: left;
+	margin-top: 20px;
+}
+
+
+.pink { background: #ee3e64; }
+.blue { background: #44accf; }
+.green { background: #b7d84b; }
+.orange { background: #E2A741; }
+.purple { background: #520577; }
+.yellow { background: #ffff00; }
+.red { background: #ff0000; }
+
+
+
+
+
+
